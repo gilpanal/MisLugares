@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Users/josemanuelgil/josema/GitHub/MisLugares/overlaymanager-1.0.1/overlaymanager-1.0.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="04f4e31ec6f0ee4104d2881403ceb6e888d594fd">
-        <dex dex="/Users/josemanuelgil/josema/GitHub/MisLugares/app/build/intermediates/pre-dexed/debug/overlaymanager-1.0.1_d067c383f87fa1d61a1617ad314ea15ce5c991d0.jar" />
-    </item>
-
-</items>
+<items version="2" />

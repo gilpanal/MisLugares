@@ -53,6 +53,20 @@ public class PrincipalActivity extends Activity {
 			}
 		});
 
+		//Al presionar el boton Mapa despliega un mapa interactivo
+		Button botonNewMapa = (Button) findViewById(R.id.botonNewMapa);
+		botonNewMapa.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+
+				Intent newmapalugares = new Intent(PrincipalActivity.this, MapaLugaresActivity.class);
+				startActivity(newmapalugares);
+
+
+			}
+		});
+
 	}
 	
 	/**
@@ -90,7 +104,7 @@ public class PrincipalActivity extends Activity {
 	protected Dialog onCreateDialog(int id) {
 		switch (id) {
 		case DIALOG_ABOUT:
-			AlertDialog dialogAbout = null;
+			AlertDialog dialogAbout;
 			final AlertDialog.Builder builder;
 
 			LayoutInflater li = LayoutInflater.from(this);

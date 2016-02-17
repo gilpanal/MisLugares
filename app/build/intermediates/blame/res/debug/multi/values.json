@@ -1,319 +1,5 @@
 [
     {
-        "outputFile": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/build/intermediates/res/merged/debug/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 15,
-                    "endOffset": 145
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/priority.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 150,
-                    "endColumn": 39,
-                    "endOffset": 185
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 190,
-                    "endColumn": 43,
-                    "endOffset": 229
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 234,
-                    "endLine": 20,
-                    "endColumn": 10,
-                    "endOffset": 688
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 693,
-                    "endColumn": 44,
-                    "endOffset": 733
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 738,
-                    "endColumn": 44,
-                    "endOffset": 778
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 783,
-                    "endColumn": 42,
-                    "endOffset": 821
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1059,
-                        "endColumn": 42,
-                        "endOffset": 1097
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 826,
-                    "endColumn": 41,
-                    "endOffset": 863
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 868,
-                    "endColumn": 43,
-                    "endOffset": 907
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 912,
-                    "endColumn": 55,
-                    "endOffset": 963
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 968,
-                    "endColumn": 54,
-                    "endOffset": 1018
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 1023,
-                    "endColumn": 52,
-                    "endOffset": 1071
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 1076,
-                    "endColumn": 51,
-                    "endOffset": 1123
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 1128,
-                    "endColumn": 61,
-                    "endOffset": 1185
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 1190,
-                    "endColumn": 50,
-                    "endOffset": 1236
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 1241,
-                    "endColumn": 53,
-                    "endOffset": 1290
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 1295,
-                    "endColumn": 55,
-                    "endOffset": 1346
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 1351,
-                    "endColumn": 52,
-                    "endOffset": 1399
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 1404,
-                    "endColumn": 59,
-                    "endOffset": 1459
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 1464,
-                    "endColumn": 61,
-                    "endOffset": 1521
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 1526,
-                    "endColumn": 50,
-                    "endOffset": 1572
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 1577,
-                    "endColumn": 53,
-                    "endOffset": 1626
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 1631,
-                    "endColumn": 55,
-                    "endOffset": 1682
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 1687,
-                    "endColumn": 52,
-                    "endOffset": 1735
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 1740,
-                    "endColumn": 47,
-                    "endOffset": 1783
-                },
-                "from": {
-                    "file": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/values/strings.xml"
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/build/intermediates/res/merged/debug/values/values.xml",
         "map": [
             {
@@ -387,12 +73,12 @@
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1193,
-                        "endLine": 46,
+                        "startOffset": 1240,
+                        "endLine": 47,
                         "endColumn": 10,
-                        "endOffset": 1647
+                        "endOffset": 1694
                     }
                 }
             },
@@ -458,17 +144,17 @@
                     "startLine": 24,
                     "startColumn": 4,
                     "startOffset": 826,
-                    "endColumn": 41,
-                    "endOffset": 863
+                    "endColumn": 49,
+                    "endOffset": 871
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1102,
-                        "endColumn": 41,
-                        "endOffset": 1139
+                        "startColumn": 1,
+                        "startOffset": 1099,
+                        "endColumn": 46,
+                        "endOffset": 1144
                     }
                 }
             },
@@ -476,18 +162,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 868,
-                    "endColumn": 43,
-                    "endOffset": 907
+                    "startOffset": 876,
+                    "endColumn": 41,
+                    "endOffset": 913
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1144,
-                        "endColumn": 43,
-                        "endOffset": 1183
+                        "startOffset": 1149,
+                        "endColumn": 41,
+                        "endOffset": 1186
                     }
                 }
             },
@@ -495,9 +181,28 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 912,
+                    "startOffset": 918,
+                    "endColumn": 43,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1191,
+                        "endColumn": 43,
+                        "endOffset": 1230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 962,
                     "endColumn": 55,
-                    "endOffset": 963
+                    "endOffset": 1013
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -512,11 +217,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 968,
+                    "startOffset": 1018,
                     "endColumn": 54,
-                    "endOffset": 1018
+                    "endOffset": 1068
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -531,11 +236,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1023,
+                    "startOffset": 1073,
                     "endColumn": 52,
-                    "endOffset": 1071
+                    "endOffset": 1121
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -550,11 +255,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1076,
+                    "startOffset": 1126,
                     "endColumn": 51,
-                    "endOffset": 1123
+                    "endOffset": 1173
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -569,11 +274,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1128,
+                    "startOffset": 1178,
                     "endColumn": 61,
-                    "endOffset": 1185
+                    "endOffset": 1235
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -588,11 +293,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1190,
+                    "startOffset": 1240,
                     "endColumn": 50,
-                    "endOffset": 1236
+                    "endOffset": 1286
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -607,11 +312,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 1241,
+                    "startOffset": 1291,
                     "endColumn": 53,
-                    "endOffset": 1290
+                    "endOffset": 1340
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -626,11 +331,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 1295,
+                    "startOffset": 1345,
                     "endColumn": 55,
-                    "endOffset": 1346
+                    "endOffset": 1396
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -645,11 +350,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 1351,
+                    "startOffset": 1401,
                     "endColumn": 52,
-                    "endOffset": 1399
+                    "endOffset": 1449
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -664,11 +369,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1404,
+                    "startOffset": 1454,
                     "endColumn": 59,
-                    "endOffset": 1459
+                    "endOffset": 1509
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -683,11 +388,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1464,
+                    "startOffset": 1514,
                     "endColumn": 61,
-                    "endOffset": 1521
+                    "endOffset": 1571
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -702,11 +407,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 1526,
+                    "startOffset": 1576,
                     "endColumn": 50,
-                    "endOffset": 1572
+                    "endOffset": 1622
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -721,11 +426,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1577,
+                    "startOffset": 1627,
                     "endColumn": 53,
-                    "endOffset": 1626
+                    "endOffset": 1676
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -740,11 +445,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 1631,
+                    "startOffset": 1681,
                     "endColumn": 55,
-                    "endOffset": 1682
+                    "endOffset": 1732
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -759,11 +464,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 1687,
+                    "startOffset": 1737,
                     "endColumn": 52,
-                    "endOffset": 1735
+                    "endOffset": 1785
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",
@@ -778,11 +483,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 1740,
+                    "startOffset": 1790,
                     "endColumn": 47,
-                    "endOffset": 1783
+                    "endOffset": 1833
                 },
                 "from": {
                     "file": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/values/strings.xml",

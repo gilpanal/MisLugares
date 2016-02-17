@@ -9,9 +9,12 @@
 	</Button>
 	<Button android:text="@string/botonMapa" android:layout_height="wrap_content"
 		android:id="@+id/botonmapa" android:layout_width="fill_parent"
-		android:layout_margin="10px"></Button>
+		android:layout_margin="10px"/>
+	<Button android:text="@string/botonNewMapa" android:layout_height="wrap_content"
+		android:id="@+id/botonNewMapa" android:layout_width="fill_parent"
+		android:layout_margin="10px"/>
 
 	<ImageView android:layout_height="wrap_content"
 		android:layout_width="wrap_content" android:src="@drawable/elmundo"
-		android:id="@+id/imageView1" android:layout_gravity="center"></ImageView>
+		android:id="@+id/imageView1" android:layout_gravity="center"/>
 </LinearLayout>
