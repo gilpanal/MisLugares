@@ -22,6 +22,7 @@
     <string name="app_name">Lugares</string>
     <string name="botonLista">Lista</string>
     <string name="botonMapa">Mapa</string>
+    <string name="botonNewMapa">NEW Mapa</string>
     <string name="editar">Editar</string>
     <string name="guardar">Guargar</string>
     <string name="hello">Hello World, Lugares!</string>
