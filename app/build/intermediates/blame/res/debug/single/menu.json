@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/build/intermediates/res/merged/debug/menu/listmenu.xml",
+        "source": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/menu/listmenu.xml"
+    },
+    {
+        "merged": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/build/intermediates/res/merged/debug/menu/listmenu.xml",
+        "source": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/menu/listmenu.xml"
+    },
+    {
+        "merged": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/build/intermediates/res/merged/debug/menu/menupricipal.xml",
+        "source": "/Users/josemanuelgil/josema/Android/StudioWorkspace/MisLugares/app/src/main/res/menu/menupricipal.xml"
+    },
+    {
+        "merged": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/build/intermediates/res/merged/debug/menu/menupricipal.xml",
+        "source": "/Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/res/menu/menupricipal.xml"
+    }
+]

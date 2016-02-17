@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priorities"><item>Latitud</item>
+<item>Longitud</item>
+</string-array>
+    <color name="black">#000000</color>
+    <color name="listcolor">#000033</color>
+    <string name="acerca_de"><b>Instrucciones</b>\n
+    \n
+    En el Mapa\n\n
+    Pulsa en un elemento para ver su nombre\n
+	Haz doble click para añadir un nuevo lugar\n\n
+	
+	En la Lista\n\n
+	Pulsa Menu para añadir un nuevo lugar\n
+	Para eliminar manten pulsado un item \n	
+	Haz click en un lugar para verlo en detalle\n
+	Haz click en la imagen para seleccionar otra\n	
+	Reescribe el archivo de imagen y elige otra\n\n
+	Visita: www.maps.google.es/
+	</string>
+    <string name="app_name">Lugares</string>
+    <string name="botonLista">Lista</string>
+    <string name="botonMapa">Mapa</string>
+    <string name="editar">Editar</string>
+    <string name="guardar">Guargar</string>
+    <string name="hello">Hello World, Lugares!</string>
+    <string name="menu_delete">Eliminar Lugar</string>
+    <string name="menu_insert">Añadir Lugar</string>
+    <string name="no_todos">No hay lugares</string>
+    <string name="show_edit_description">Descripcion</string>
+    <string name="show_edit_image">Imagen</string>
+    <string name="show_edit_latitud">Latitud</string>
+    <string name="show_edit_longitud">Longitud</string>
+    <string name="show_edit_summary">Nombre</string>
+    <string name="todo_description">Eliminar Lugar</string>
+    <string name="todo_edit_description">Descripcion</string>
+    <string name="todo_edit_image">Imagen</string>
+    <string name="todo_edit_latitud">Latitud</string>
+    <string name="todo_edit_longitud">Longitud</string>
+    <string name="todo_edit_summary">Nombre</string>
+    <string name="todo_summary">Nombre</string>
+</resources>

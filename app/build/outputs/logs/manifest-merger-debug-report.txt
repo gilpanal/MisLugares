@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:8:5-28:19
+	android:label
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:8:48-80
+	android:icon
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:8:18-47
+activity#es.masterd.lugares.PrincipalActivity
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:9:9-15:20
+	android:label
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:10:13-45
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:9:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:13:27-74
+activity#es.masterd.lugares.ListaLugaresActivity
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:18:9-58
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:18:19-55
+activity#es.masterd.lugares.EditarLugarActivity
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:19:19-54
+activity#es.masterd.lugares.MostrarLugarActivity
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:20:9-57
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:20:19-55
+activity#es.masterd.lugares.SeleccionarImagen
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:21:19-52
+activity#es.masterd.lugares.maps.MapsActivity
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:23:19-52
+activity#es.masterd.lugares.maps.MapaLugaresActivity
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:24:9-62
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:24:19-59
+uses-library#com.google.android.maps
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:27:9-64
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:27:23-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:29:22-64
+uses-sdk
+ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:31:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml:31:15-40
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josemanuelgil/josema/GitHub/MisLugares/app/src/main/AndroidManifest.xml

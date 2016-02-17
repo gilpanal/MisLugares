@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.masterd.lugares"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+
+    <application android:icon="@drawable/todo" android:label="@string/app_name">
+        <activity android:name=".PrincipalActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".ListaLugaresActivity" />
+        <activity android:name=".EditarLugarActivity"/>
+        <activity android:name=".MostrarLugarActivity"/>
+        <activity android:name=".SeleccionarImagen" />
+
+        <activity android:name=".maps.MapsActivity"/>
+        <activity android:name=".maps.MapaLugaresActivity" />
+
+
+        <uses-library android:name ="com.google.android.maps"/>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-sdk android:minSdkVersion="8" />
+</manifest>
